@@ -1,0 +1,37 @@
+#boton {
+    padding: 10px 40px
+}
+.box {
+    height: 200px;
+    opacity: 0.3;
+    transition: opacity 500ms; 
+}
+#box1 {    
+     background-color:rgba(0, 81, 255, 0.692);
+             
+}
+
+#box2 {
+    background-color:rgba(0, 255, 76, 0.692);
+    
+}
+#box3 {
+    background-color: yellow;
+    
+}
+#box4 {
+    background-color: rgba(255, 0, 0, 0.705);
+    
+}
+.box {
+
+    padding: 50px;
+}
+body {
+
+    background-color: rgba(224, 186, 128, 0.788);
+}
+#ronda {
+    font-size: larger;    
+    
+}
